@@ -1,23 +1,5 @@
 # Update: Head to Cyfrin Updraft
 
-> **ℹ️ Important:**
-> This repo is no longer actively maintained as there have been changes in Hardhat tooling. The video is out of sync with the code, and you can still follow along with the video, but you will likely need to troubleshoot the changes in the tooling and dependencies. Note also that best practices have evolved since this video was made.  
-> If you'd like to continue your training with more up-to-date material, you can take a look at [Cyfrin Updraft](https://updraft.cyfrin.io/). That content is developed with love by Patrick & Cyfrin <3. However note that Cyfrin Updraft training uses Foundry, not Hardhat, so there will be tooling changes involved.
-
-# Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
-
-<br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
-<img src="./img/blockchain1.png" width="500" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
-</a>
-</p>
-<br/>
-
-Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
-
-# Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ
-
 All code references have both a javascript and a typescript edition.
 
 Recommended Testnet: Sepolia
